@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Runwei Guan</h1>
-<h3 align="center">A Joint Ph.D Student of UoL-JITRI</h3>
+<h3 align="center">中国人民解放军战略忽悠局华东分局保安</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guanrunwei&label=Profile%20views&color=0e75b6&style=flat" alt="guanrunwei" /> </p>
 
