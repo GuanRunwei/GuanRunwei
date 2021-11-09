@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GuanRunwei/GuanRunwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# GuanRunwei
 
 <h1 align="center">Hi 👋, I'm Runwei Guan</h1>
 <h3 align="center">A Joint Ph.D Student of UoL-JITRI</h3>
