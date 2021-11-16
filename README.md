@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Deep Learning Architecture & Data Augmentation based on Deep Learning & Object Detection and Tracking**
 
-- 👯 I’m looking to collaborate on **my intelligent medicine project**
+- 👯 I’m looking to collaborate on **(1)Target detection and tracking based on radar(SAR or 4D) and RGB  (2) Malignancy analysis based on deep learning  (3) Research and development of medical aid diagnostic system **
 
 - 📝 I regularly write articles on [https://runwei.blog.csdn.net/](https://runwei.blog.csdn.net/)
 
