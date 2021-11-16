@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://runwei.blog.csdn.net/](https://runwei.blog.csdn.net/)
 
-- 💬 Ask me about **how to become a debug master**
+- 💬 We are looking for postgraduate students for a long time and provide scholarships. ** We hope that you can have strong engineering ability and have any background in signal processing, computer, control engineering, communication engineering, etc. **
 
 - 📫 How to reach me **thinkerai@foxmail.com**
 
