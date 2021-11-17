@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on 
 
-     **(1) Target detection and tracking based on radar(SAR or 4D) and RGB**
+     **(1) Target detection and tracking based on 4D Radar and RGB**
      
      **(2) Malignancy analysis based on deep learning**  
      
