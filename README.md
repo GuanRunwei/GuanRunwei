@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Signal Fusion of Radar and Camera & Intelligent Medicine**
 
-- 🌱 I’m currently learning **Deep Learning Architecture & Data Augmentation based on Deep Learning & Object Detection and Tracking**
+- 🌱 I’m currently learning **Perceptual fusion algorithm & Knowledge Distillation & Object Detection and Tracking**
 
 - 👯 I’m looking to collaborate on 
 
