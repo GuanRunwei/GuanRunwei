@@ -22,17 +22,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/rowan_guan" target="blank"><img src="https://img.shields.io/twitter/follow/rowan_guan?logo=twitter&style=for-the-badge" alt="rowan_guan" /></a> </p>
 
-- 🔭 I’m currently working on **Multi-modal detection & Intelligent medicine**
+- 🔭 I’m currently working on **Multi-modal detection with Radar and Vision & Vision Transformer & Intelligent medicine**
 
-- 🌱 I’m currently learning **Perceptual fusion algorithm & Knowledge Distillation & 3D Object Detection**
+- 🌱 I’m currently learning **Radar signal processing & Active learning & 3D object detection**
 
 - 👯 I’m looking to collaborate on 
 
      **(1) Target detection and tracking based on 4D Radar and RGB or other modal**
      
-     **(2) Malignancy analysis based on deep learning**  
+     **(2) Cross-modal end-to-end deep learning **
      
-     **(3) Research and development of medical aid diagnostic system** 
+     **(3) Malignancy analysis based on deep learning**  
+     
+     **(4) Research and development of medical aid diagnostic system** 
 
 - 📝 I regularly write articles on [https://runwei.blog.csdn.net/](https://runwei.blog.csdn.net/)
 
