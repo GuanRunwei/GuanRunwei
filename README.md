@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
      **(1) Target detection and tracking based on 4D Radar and RGB or other modal**
      
-     **(2) Cross-modal end-to-end deep learning **
+     **(2) Cross-modal end-to-end deep learning**
      
      **(3) Malignancy analysis based on deep learning**  
      
