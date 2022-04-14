@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guanrunwei" alt="guanrunwei" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rowan_guan" target="blank"><img src="https://img.shields.io/twitter/follow/rowan_guan?logo=twitter&style=for-the-badge" alt="rowan_guan" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/rowan_guan" target="blank"><img src="https://img.shields.io/twitter/follow/rowan_guan?logo=twitter&style=for-the-badge" alt="rowan_guan" /></a> </p> -->
 
 - 🔭 I’m currently working on **Multi-modal detection with Radar and Vision & Attention Mechanism & Intelligent medicine**
 
