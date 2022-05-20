@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/rowan_guan" target="blank"><img src="https://img.shields.io/twitter/follow/rowan_guan?logo=twitter&style=for-the-badge" alt="rowan_guan" /></a> </p> -->
 
-- 🔭 I’m currently working on **Multi-modal detection with Radar and Vision & Attention Mechanism & Intelligent medicine**
+- 🔭 I’m currently working on **Language-Perception Cross-Model Learning & Multi-modal detection with Radar and Vision & Attention Mechanism & Intelligent medicine**
 
-- 🌱 I’m currently learning **Radar signal processing & Active learning & 3D object detection**
+- 🌱 I’m currently learning **Radar signal processing & Explainability & 3D object detection & Object Tracking & Object Segmentation & Deep Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on 
 
